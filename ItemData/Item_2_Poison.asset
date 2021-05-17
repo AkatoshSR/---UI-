@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbb5a36e0541b294e9eee54391196c0a, type: 3}
+  m_Name: Item_2_Poison
+  m_EditorClassIdentifier: 
+  itemName: "\u666E\u901A\u7684\u6BD2\u836F"
+  itemDescription: "\u80FD\u591F\u6740\u6B7B\u5927\u90E8\u5206\u7684\u4E2D\u5C0F\u578B\u751F\u7269\u3002"
+  itemSprite: {fileID: 21300000, guid: 816950ae28c2b437a84dd4eb63db830f, type: 3}
+  itemPrice: 200
